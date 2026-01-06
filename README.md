@@ -42,12 +42,12 @@ pip install torch torchvision opencv-python pillow
 git clone https://github.com/nitinsaipatha-cell/potholedetection.git
 cd pothole-detection  
 
-2. Ensure pothole_model.pth and video prediction.py are in the same directory.
+3. Ensure pothole_model.pth and video prediction.py are in the same directory.
 
-3. Run the script:
+4. Run the script:
 python "video prediction.py"
 
-4. The webcam will open and display predictions:
+5. The webcam will open and display predictions:
 - Green text: no_pothole  
 - Red text: pothole  
 
