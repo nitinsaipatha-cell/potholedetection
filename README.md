@@ -40,7 +40,7 @@ pip install torch torchvision opencv-python pillow
 
 1. Clone the repository:
 git clone https://github.com/nitinsaipatha-cell/potholedetection.git
-cd pothole-detection  
+cd potholedetection  
 
 3. Ensure pothole_model.pth and video prediction.py are in the same directory.
 
