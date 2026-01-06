@@ -21,7 +21,6 @@ The model automatically runs on GPU if available; otherwise, it runs on CPU.
 
 ## Repository Structure
 
-.
 ├── pothole_model.pth        # Trained model weights  
 ├── video prediction.py      # Real-time webcam detection script  
 ├── README.md                # Project documentation  
@@ -40,7 +39,7 @@ pip install torch torchvision opencv-python pillow
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/pothole-detection.git  
+git clone https://github.com/nitinsaipatha-cell/potholedetection.git
 cd pothole-detection  
 
 2. Ensure pothole_model.pth and video prediction.py are in the same directory.
