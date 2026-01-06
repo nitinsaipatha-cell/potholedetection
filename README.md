@@ -21,9 +21,9 @@ The model automatically runs on GPU if available; otherwise, it runs on CPU.
 
 ## Repository Structure
 
-├── pothole_model.pth        # Trained model weights  
-├── video prediction.py      # Real-time webcam detection script  
-├── README.md                # Project documentation  
+|-- pothole_model.pth        # Trained model weights  
+|-- video prediction.py      # Real-time webcam detection script  
+|-- README.md                # Project documentation  
 
 ## Requirements
 
